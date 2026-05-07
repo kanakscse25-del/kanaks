@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Skyline Properties</title>
+</head>
+
+<body>
+<h1>Skyline Properties</h1>
+<h3>Filter Properties</h3>
+
+<label>Price Range:</label>
+<select>
+    <option>Select Price</option>
+    <option>Below 50 Lakhs</option>
+    <option>50 Lakhs - 1 Crore</option>
+    <option>Above 1 Crore</option>
+</select>
+<br><br>
+<label>BHK Type:</label>
+<select>
+    <option>Select BHK</option>
+    <option>1 BHK</option>
+    <option>2 BHK</option>
+    <option>3 BHK</option>
+</select>
+<hr>
+<h2>Property Listings</h2>
+<div>
+    <h3>2 BHK Apartment</h3>
+    <img src="C:\Users\KANAK SAMRIT\OneDrive\Desktop\2bhkk.jpg" height="200px" width="200px">
+    <p>Price: 75 Lakhs</p>
+    <p>Location: Mumbai</p>
+    <p>Area: 900 sq.ft</p>
+</div>
+<hr>
+<div>
+    <h3>3 BHK Villa</h3>
+    <img src="C:\Users\KANAK SAMRIT\OneDrive\Desktop\3bhkk.jpg" height="200px" width="200px">
+    <p>Price: 1.2 Crore</p>
+    <p>Location: Pune</p>
+    <p>Area: 1500 sq.ft</p>
+</div>
+<hr>
+<h2>Property Details</h2>
+<h3>2 BHK Apartment</h3>
+<p>This is a spacious 2 BHK apartment suitable for families.</p>
+<h3>3 BHK Villa</h3>
+<p>This villa offers luxury living with modern facilities.</p>
+</body>
+</html>
